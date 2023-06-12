@@ -1,1 +1,1 @@
-Terms of services critical ops bot.
+Terms of service critical ops bot.
